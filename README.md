@@ -7,7 +7,7 @@ Small http server with Fastify
  - use node v16 (mac: https://noviello.it/come-installare-nvm-su-macos-con-homebrew/)
  - clone repo
  - yarn install (or npm install if you like more)
- - yarn server:start
+ - yarn server:start (or npm run server:start)
 
 
 ### server
