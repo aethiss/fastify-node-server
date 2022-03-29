@@ -1,0 +1,24 @@
+{
+  "name": "fastify-node-server",
+  "version": "1.0.0",
+  "description": "Small http server with Fastify",
+  "main": "index.js",
+  "scripts": {
+    "server:start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aethiss/fastify-node-server.git"
+  },
+  "author": "Aethiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aethiss/fastify-node-server/issues"
+  },
+  "homepage": "https://github.com/aethiss/fastify-node-server#readme",
+  "dependencies": {
+    "fastify": "3.27.4",
+    "qs": "6.10.3",
+    "fastify-formbody": "5.2.0"
+  }
+}
